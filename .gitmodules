@@ -1,0 +1,6 @@
+[submodule "icesDATRAS"]
+	path = icesDATRAS
+	url = https://github.com/ices-tools-prod/icesDATRAS.git
+[submodule "DATRAS"]
+	path = DATRAS
+	url = https://github.com/ices-tools-dev/DATRAS.git
